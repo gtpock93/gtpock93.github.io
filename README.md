@@ -10,7 +10,7 @@ Cocktail Hour and Dinner to follow
 ## Venue
 Name: Elizabeth F. Gamble Gardens  
 Address: 1431 Waverley St, Palo Alto, CA 94301  
-Google Maps: https://goo.gl/maps/KhVDg3X15UctQtXm8  
+Google Maps: [https://goo.gl/maps/KhVDg3X15UctQtXm8](https://goo.gl/maps/KhVDg3X15UctQtXm8)  
 
 ## Map of Parking
 
