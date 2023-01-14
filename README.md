@@ -2,7 +2,7 @@
 Wedding information for Irene and Grant's wedding!
 
 ## Time and Date
-Date: **May 27, 2023**  
+Date: **REMOVED FOR TIME BEING**  
 Suggested Arrival: **3:45PM**  
 Ceremony: **4PM**  
 Cocktail Hour and Dinner to follow
@@ -13,6 +13,7 @@ Address: 1431 Waverley St, Palo Alto, CA 94301
 Google Maps: [https://goo.gl/maps/KhVDg3X15UctQtXm8](https://goo.gl/maps/KhVDg3X15UctQtXm8)  
 
 ## Map of Parking
+*Map to be added*
 
 ## Hotel Accommodations
 Location: Courtyard by Marriott Palo Alto Los Altos  
