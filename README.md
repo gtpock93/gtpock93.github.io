@@ -2,7 +2,7 @@
 Wedding information for Irene and Grant's wedding!
 
 ## Time and Date
-Date: **REMOVED FOR TIME BEING**  
+Date: *removed for time being*  
 Suggested Arrival: **3:45PM**  
 Ceremony: **4PM**  
 Cocktail Hour and Dinner to follow
