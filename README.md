@@ -1,11 +1,15 @@
 # Wedding
 Wedding information for Irene and Grant's wedding!
 
+## RSVP
+RSVP Link: <Add Google Form>
+
 ## Time and Date
 Date: *removed for time being*  
-Suggested Arrival: **3:45PM**  
-Ceremony: **4PM**  
-Cocktail Hour and Dinner to follow
+Suggested Arrival: **4:15PM**  
+Ceremony: **4:30PM**  
+Cocktail Hour: **5:00PM**
+Dinner: **6:00PM**
 
 ## Venue
 Name: Elizabeth F. Gamble Gardens  
