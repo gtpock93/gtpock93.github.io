@@ -1,4 +1,4 @@
-# Wedding
+# Irene and Grant's Wedding
 Wedding information for Irene and Grant's wedding!
 
 ## RSVP
@@ -32,3 +32,6 @@ Address: 4320 El Camino Real, Los Altos, CA 94022
 
 ## Event Attire
 Semi-Formal
+
+## Registry
+We do not plan to have a registry. 
