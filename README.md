@@ -8,8 +8,8 @@ RSVP Link: [https://forms.gle/SeG93tx6AMeJgact9](https://forms.gle/SeG93tx6AMeJg
 Date: *Please find the date on the invitation. Contact Irene or Grant for the date if you've misplaced your invitation.*  
 Suggested Arrival: **4:15PM**  
 Ceremony: **4:30PM**  
-Cocktail Hour: **5:00PM**
-Dinner: **6:00PM**
+Cocktail Hour: **5:00PM**  
+Dinner: **6:00PM**  
 
 ## Venue
 Name: Elizabeth F. Gamble Gardens  
