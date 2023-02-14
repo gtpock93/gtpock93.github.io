@@ -5,7 +5,7 @@ Wedding information for Irene and Grant's wedding!
 RSVP Link: [https://forms.gle/SeG93tx6AMeJgact9](https://forms.gle/SeG93tx6AMeJgact9)
 
 ## Time and Date
-Date: *removed for time being*  
+Date: *Please find the date on the invitation. Contact Irene or Grant for the date if you've misplaced your invitation.*  
 Suggested Arrival: **4:15PM**  
 Ceremony: **4:30PM**  
 Cocktail Hour: **5:00PM**
