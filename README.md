@@ -19,7 +19,7 @@ Google Maps: [https://goo.gl/maps/KhVDg3X15UctQtXm8](https://goo.gl/maps/KhVDg3X
 ## Transportation
 We do not currently plan to have a bus shuttle service. 
 ### Map of Parking
-<img width="1402" alt="image" src="https://user-images.githubusercontent.com/45011679/218215655-ff716cbb-3f17-440f-acb2-a4eea913cbb5.png">  
+*Testing, map to be added at a later date* 
 
 Green = Parking Lot   
 Red = Vendor Lot (Do not park here)   
