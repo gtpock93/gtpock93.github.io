@@ -17,7 +17,7 @@ Address: 1431 Waverley St, Palo Alto, CA 94301
 Google Maps: [https://goo.gl/maps/KhVDg3X15UctQtXm8](https://goo.gl/maps/KhVDg3X15UctQtXm8)  
 
 ## Transportation
-We do not currently plan to have a bus shuttle service. 
+We do not currently plan to have a bus/shuttle service. If you need a ride, let us know.   
 ### Map of Parking  
 ![Parking Map](/docs/assets/images/ParkingImage.jpg)
 
