@@ -1,5 +1,5 @@
 # Irene and Grant's Wedding
-Wedding information for Irene and Grant's wedding!  
+Information for Irene and Grant's wedding!  
 
 ## RSVP
 RSVP Link: [https://forms.gle/SeG93tx6AMeJgact9](https://forms.gle/SeG93tx6AMeJgact9)
