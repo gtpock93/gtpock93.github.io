@@ -20,7 +20,7 @@ Google Maps: [https://goo.gl/maps/KhVDg3X15UctQtXm8](https://goo.gl/maps/KhVDg3X
 We do not currently plan to have a bus shuttle service. 
 ### Map of Parking
 *Testing, map to be added at a later date*   
-!![Parking Map](gtpock93/gtpock93.github.io/assets/images/ParkingImage.jpg)
+!![Parking Map](/docs/assets/images/ParkingImage.jpg)
 
 
 Green = Parking Lot   
