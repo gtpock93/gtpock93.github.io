@@ -6,18 +6,19 @@ RSVP Link: [https://forms.gle/SeG93tx6AMeJgact9](https://forms.gle/SeG93tx6AMeJg
 
 ## Time and Date
 Date: *Please find the date on the invitation. Contact Irene or Grant for the date if you've misplaced your invitation.*  
+  
 Suggested Arrival: **4:15PM**  
 Ceremony: **4:30PM**  
 Cocktail Hour: **5:00PM**  
 Dinner: **6:00PM**  
 
 ## Venue
-Name: Elizabeth F. Gamble Garden  
-Address: 1431 Waverley St, Palo Alto, CA 94301  
+Elizabeth F. Gamble Garden  
+1431 Waverley St  
+Palo Alto, CA 94301  
+  
 Google Maps: [https://goo.gl/maps/KhVDg3X15UctQtXm8](https://goo.gl/maps/KhVDg3X15UctQtXm8)  
-
-## Transportation
-We do not currently plan to have a bus/shuttle service. If you need a ride, let us know.   
+  
 ### Map of Parking  
 ![Parking Map](/docs/assets/images/ParkingImage.jpg)
 
@@ -25,13 +26,15 @@ Green = Parking Lot
 Red = Vendor Lot (Do not park here)   
 If the parking lot fills up, street parking in the surrounding neighborhood will have to be used. 
 
+## Transportation
+We do not currently plan to have a bus/shuttle service. If you need a ride, let us know.   
+
 ## Hotel Accommodations
-Location:  
 Courtyard by Marriott Palo Alto Los Altos  
-Address:  
 4320 El Camino Real  
-Los Altos, CA 94022   
-**Courtesy Link:** [https://www.marriott.com/event-reservations/reservation-link.mi?id=1674245190667&key=GRP&app=resvlink](https://www.marriott.com/event-reservations/reservation-link.mi?id=1674245190667&key=GRP&app=resvlink)
+Los Altos, CA 94022  
+  
+**Courtesy Link for Room Block:** [https://www.marriott.com/event-reservations/reservation-link.mi?id=1674245190667&key=GRP&app=resvlink](https://www.marriott.com/event-reservations/reservation-link.mi?id=1674245190667&key=GRP&app=resvlink)
 
 ## Event Attire
 Semi-Formal
