@@ -22,7 +22,7 @@ Google Maps: [https://goo.gl/maps/KhVDg3X15UctQtXm8](https://goo.gl/maps/KhVDg3X
 ### Map of Parking  
 ![Parking Map](/docs/assets/images/ParkingImage.jpg)
 
-Green = Parking Lot   
+Green = Parking Lot (Enter on Waverley Street)  
 Red = Vendor Lot (Do not park here)   
 If the parking lot fills up, street parking in the surrounding neighborhood will have to be used. 
 
