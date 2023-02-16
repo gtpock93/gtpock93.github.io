@@ -26,8 +26,11 @@ Red = Vendor Lot (Do not park here)
 If the parking lot fills up, street parking in the surrounding neighborhood will have to be used. 
 
 ## Hotel Accommodations
-Location: Courtyard by Marriott Palo Alto Los Altos  
-Address: 4320 El Camino Real, Los Altos, CA 94022   
+Location:  
+Courtyard by Marriott Palo Alto Los Altos  
+Address:  
+4320 El Camino Real  
+Los Altos, CA 94022   
 **Courtesy Link:** [https://www.marriott.com/event-reservations/reservation-link.mi?id=1674245190667&key=GRP&app=resvlink](https://www.marriott.com/event-reservations/reservation-link.mi?id=1674245190667&key=GRP&app=resvlink)
 
 ## Event Attire
